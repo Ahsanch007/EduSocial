@@ -148,6 +148,11 @@ body {
     top: 0;
 }
 
+.box{
+    position: absolute;
+    left: 30%;
+    top: 0;
+}
 
 
 
@@ -192,6 +197,8 @@ body {
         background-position: 50% 50%;
         min-height: 556px;
     }
-
+.mar{
+    margin: 15px 0px;
+}
 
 }
